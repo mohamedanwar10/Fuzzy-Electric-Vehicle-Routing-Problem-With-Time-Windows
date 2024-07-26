@@ -10,13 +10,12 @@ Energy Management: Efficient management of EV battery levels and recharging need
 Integration with Charging Infrastructure: Seamless interaction with available charging stations.
 Predictive Analytics: Forecasting traffic conditions, energy consumption, and recharging times.
 User Interface: Intuitive interface for monitoring and managing routes.
-### Implementation Steps
-###Initialization:
-Initialize the Electric Vehicle Routing Problem (EVRP) instance with necessary parameters.
 
+## Implementation Steps
+### Initialization:
+Initialize the Electric Vehicle Routing Problem (EVRP) instance with necessary parameters.
 ### Distribute Vehicles:
 Distribute the vehicles to serve the customers while optimizing the routes.
-
 ### Plot Results:
 Visualize the results using the provided plotting functions.
 
