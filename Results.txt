@@ -1,0 +1,108 @@
+Vheicle1's information:
+{'id': 1, 'capacity': 40, 'statue': True, 'charging': 67.59626275150943, 'path': [0, 43, 42, 41, 40, 44, 46, 45, 48, 51, 50, 52, 49, 47, 0], 'path length': 64.80747449698114, 'total time': 1174.6779718119662}
+  
+
+Vheicle2's information:
+{'id': 2, 'capacity': 10, 'statue': True, 'charging': 61.86681359120745, 'path': [0, 20, 24, 25, 27, 29, 30, 28, 26, 23, 22, 21, 75, 0], 'path length': 76.2663728175851, 'total time': 1086.0454984516741}
+  
+
+Vheicle3's information:
+{'id': 3, 'capacity': 0, 'statue': True, 'charging': 70.29844563814495, 'path': [0, 67, 65, 63, 62, 74, 72, 61, 64, 68, 66, 69, 0], 'path length': 59.403108723710105, 'total time': 994.3591720422869}
+  
+
+Vheicle4's information:
+{'id': 4, 'capacity': 40, 'statue': True, 'charging': 70.25588453323344, 'path': [0, 5, 3, 7, 8, 10, 11, 9, 6, 4, 2, 1, 0], 'path length': 59.48823093353308, 'total time': 994.0806689241264}
+  
+
+Vheicle5's information:
+{'id': 5, 'capacity': 30, 'statue': True, 'charging': 61.96521733855607, 'path': [0, 90, 87, 86, 83, 82, 84, 85, 88, 89, 91, 0], 'path length': 76.06956532288787, 'total time': 905.3708885547888}
+  
+
+Vheicle6's information:
+{'id': 6, 'capacity': 10, 'statue': True, 'charging': 52.02843468897096, 'path': [0, 98, 96, 95, 94, 92, 93, 97, 100, 99, 0], 'path length': 95.94313062205805, 'total time': 816.2402110959562}
+  
+
+Vheicle7's information:
+{'id': 7, 'capacity': 0, 'statue': True, 'charging': 51.38641860746655, 'path': [0, 32, 33, 31, 35, 37, 38, 39, 36, 34, 0], 'path length': 97.2271627850669, 'total time': 816.4838893303663}
+  
+
+Vheicle8's information:
+{'id': 8, 'capacity': 50, 'statue': True, 'charging': 36.35125979270241, 'path': [0, 81, 78, 76, 71, 70, 73, 77, 79, 80, 0], 'path length': 127.29748041459519, 'total time': 817.581932970966}
+  
+
+Vheicle9's information:
+{'id': 9, 'capacity': 0, 'statue': True, 'charging': 49.05871619901937, 'path': [0, 57, 55, 54, 53, 56, 58, 60, 59, 0], 'path length': 101.88256760196126, 'total time': 726.6825471316045}
+  
+
+Vheicle10's information:
+{'id': 10, 'capacity': 10, 'statue': True, 'charging': 71.09707819925063, 'path': [0, 13, 17, 18, 19, 15, 16, 14, 12, 0], 'path length': 57.80584360149872, 'total time': 725.7805843601499}
+  
+
+Vheicle11's information:
+{'id': 11, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle12's information:
+{'id': 12, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle13's information:
+{'id': 13, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle14's information:
+{'id': 14, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle15's information:
+{'id': 15, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle16's information:
+{'id': 16, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle17's information:
+{'id': 17, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle18's information:
+{'id': 18, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle19's information:
+{'id': 19, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle20's information:
+{'id': 20, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle21's information:
+{'id': 21, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle22's information:
+{'id': 22, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle23's information:
+{'id': 23, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle24's information:
+{'id': 24, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+  
+
+Vheicle25's information:
+{'id': 25, 'capacity': 200, 'statue': False, 'charging': 100, 'path': None, 'path length': 0, 'total time': 0}
+
+
+
+
+
+Number of vheicles that serve the customers is 10 vheicles and 15 vheicles are remained in the depot
+Total distance for all vheicles are 816.191 Km
+Average elapsed time for each vheicle is 905.73 m
+Average remain charging for each vheicle's battery is 59.19 %
+Average remain capacity for each vheicle is 19.0
